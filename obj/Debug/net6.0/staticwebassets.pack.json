@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\maria\\source\\repos\\Day 23 Coffee Shop Registration Lab\\Day 23 Coffee Shop Registration Lab\\wwwroot\\images\\mocha-marias.png",
+      "PackagePath": "staticwebassets\\images\\mocha-marias.png"
+    },
+    {
       "Id": "C:\\Users\\maria\\source\\repos\\Day 23 Coffee Shop Registration Lab\\Day 23 Coffee Shop Registration Lab\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

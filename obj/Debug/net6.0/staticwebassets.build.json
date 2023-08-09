@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L06CnQsL0Ow7uZfxMupnrSwzeg35a/1f1Y4imsEHchE=",
+  "Hash": "37Q2BNfSJfhffYZz9Qj2m2cJWO0NHks4q/GaGzY+AVw=",
   "Source": "Day 23 Coffee Shop Registration Lab",
   "BasePath": "_content/Day 23 Coffee Shop Registration Lab",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\maria\\source\\repos\\Day 23 Coffee Shop Registration Lab\\Day 23 Coffee Shop Registration Lab\\wwwroot\\images\\mocha-marias.png",
+      "SourceId": "Day 23 Coffee Shop Registration Lab",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maria\\source\\repos\\Day 23 Coffee Shop Registration Lab\\Day 23 Coffee Shop Registration Lab\\wwwroot\\",
+      "BasePath": "_content/Day 23 Coffee Shop Registration Lab",
+      "RelativePath": "images/mocha-marias.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mocha-marias.png"
     },
     {
       "Identity": "C:\\Users\\maria\\source\\repos\\Day 23 Coffee Shop Registration Lab\\Day 23 Coffee Shop Registration Lab\\wwwroot\\js\\site.js",
