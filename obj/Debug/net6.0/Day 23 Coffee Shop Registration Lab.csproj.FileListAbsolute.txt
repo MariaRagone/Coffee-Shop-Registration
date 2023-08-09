@@ -1,0 +1,31 @@
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\bin\Debug\net6.0\appsettings.json
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\bin\Debug\net6.0\Day 23 Coffee Shop Registration Lab.staticwebassets.runtime.json
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\bin\Debug\net6.0\Day 23 Coffee Shop Registration Lab.exe
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\bin\Debug\net6.0\Day 23 Coffee Shop Registration Lab.deps.json
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\bin\Debug\net6.0\Day 23 Coffee Shop Registration Lab.runtimeconfig.json
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\bin\Debug\net6.0\Day 23 Coffee Shop Registration Lab.dll
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\bin\Debug\net6.0\Day 23 Coffee Shop Registration Lab.pdb
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\Day 23 Coffee Shop Registration Lab.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\Day 23 Coffee Shop Registration Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\Day 23 Coffee Shop Registration Lab.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\Day 23 Coffee Shop Registration Lab.AssemblyInfo.cs
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\Day 23 Coffee Shop Registration Lab.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\Day 23 Coffee Shop Registration Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\Day 23 Coffee Shop Registration Lab.RazorAssemblyInfo.cache
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\Day 23 Coffee Shop Registration Lab.RazorAssemblyInfo.cs
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\staticwebassets\msbuild.Day 23 Coffee Shop Registration Lab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\staticwebassets\msbuild.build.Day 23 Coffee Shop Registration Lab.props
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Day 23 Coffee Shop Registration Lab.props
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Day 23 Coffee Shop Registration Lab.props
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\scopedcss\bundle\Day 23 Coffee Shop Registration Lab.styles.css
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\scopedcss\projectbundle\Day 23 Coffee Shop Registration Lab.bundle.scp.css
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\Day 23 Coffee Shop Registration Lab.dll
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\refint\Day 23 Coffee Shop Registration Lab.dll
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\Day 23 Coffee Shop Registration Lab.pdb
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\Day 23 Coffee Shop Registration Lab.genruntimeconfig.cache
+C:\Users\maria\source\repos\Day 23 Coffee Shop Registration Lab\Day 23 Coffee Shop Registration Lab\obj\Debug\net6.0\ref\Day 23 Coffee Shop Registration Lab.dll
